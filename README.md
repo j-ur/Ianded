@@ -11,10 +11,6 @@
      </a>
 </p>
 
-# Stats
-![c](https://github-readme-stats.vercel.app/api/top-langs/?username=respitory&layout=compact&theme=dark) 
-</br>
-![stats](https://github-readme-stats.vercel.app/api?username=respitory&show_icons=true&theme=dark)
 
 # Contacts
 council#0482 @ discord </br>
