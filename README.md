@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">👋, hey I'm council</h1>
 
-<!--
-**needIes/needIes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lemonflux&label=Profile%20views&color=0e75b6&style=flat" alt="council"/> </p>
+<p align="center">
+# /listing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/respitory">
+    <img src="https://discord.c99.nl/widget/theme-4/183199718954762241.png"/>
+     </a>
+</p>
+
+# Stats
+![c](https://github-readme-stats.vercel.app/api/top-langs/?username=respitory&layout=compact&theme=dark) 
+</br>
+![stats](https://github-readme-stats.vercel.app/api?username=respitory&show_icons=true&theme=dark)
+
+# Contacts
+council#0482 @ discord </br>
+needies @ github </br>
+iettered @ instagram </br>
+
+# council$0002
+<p align="center">
+  <a href="https://github.com/respitory">
+    <img src="https://images-ext-2.discordapp.net/external/fvgapwhfbY66aQd6B_fxBfoT_yT5OsGrAntKg9nK-JY/%3Fsize%3D2048/https/cdn.discordapp.com/splashes/853829516157517824/afa40626efba2bfe45b560022e32d46a.png?width=171&height=113"/>
+     </a>
+</p>
