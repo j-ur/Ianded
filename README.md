@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lemonflux&label=Profile%20views&color=0e75b6&style=flat" alt="council"/> </p>
 <p align="center">
-# /listing
+# wintr.rip/discord
 
 <p align="center">
   <a href="https://github.com/respitory">
